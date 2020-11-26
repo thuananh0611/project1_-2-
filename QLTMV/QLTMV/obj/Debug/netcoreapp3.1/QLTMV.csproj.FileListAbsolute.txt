@@ -1,0 +1,13 @@
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\bin\Debug\netcoreapp3.1\QLTMV.exe
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\bin\Debug\netcoreapp3.1\QLTMV.deps.json
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\bin\Debug\netcoreapp3.1\QLTMV.runtimeconfig.json
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\bin\Debug\netcoreapp3.1\QLTMV.runtimeconfig.dev.json
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\bin\Debug\netcoreapp3.1\QLTMV.dll
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\bin\Debug\netcoreapp3.1\QLTMV.pdb
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.csprojAssemblyReference.cache
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.AssemblyInfoInputs.cache
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.AssemblyInfo.cs
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.csproj.CoreCompileInputs.cache
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.dll
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.pdb
+D:\GITHUB2\project1_-2-\QLTMV\QLTMV\obj\Debug\netcoreapp3.1\QLTMV.genruntimeconfig.cache
